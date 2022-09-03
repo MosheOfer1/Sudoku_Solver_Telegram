@@ -24,12 +24,12 @@ public class SudokuSolver extends TelegramLongPollingBot implements Runnable{
 
     @Override
     public String getBotUsername() {
-        return "mosheoferBot";
+        return "Here_you_enter_the_BotUsername_from_BotFather";
     }
 
     @Override
     public String getBotToken() {
-        return "5576928655:AAE0A-KqQQPhsdSA2Bxrkik1tHmaMhfoWgg";
+        return "Here_you_enter_the_BotToken_from_BotFather";
     }
 
     @Override
